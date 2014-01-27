@@ -1,0 +1,42 @@
+[submodule "vim-css-color"]
+	path = vim-css-color
+	url = https://github.com/skammer/vim-css-color.git
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "gist-vim"]
+	path = gist-vim
+	url = https://github.com/mattn/gist-vim.git
+[submodule "gundo.vim"]
+	path = gundo.vim
+	url = https://github.com/sjl/gundo.vim.git
+[submodule "vim-repeat"]
+	path = vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "tlib_vim"]
+	path = tlib_vim
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "vim-addon-mw-utils"]
+	path = vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "vim-snipmate"]
+	path = vim-snipmate
+	url = https://github.com/garbas/vim-snipmate.git
+[submodule "vim-snippets"]
+	path = vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "emmet-vim"]
+	path = emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "tagbar"]
+	path = tagbar
+	url = git://github.com/majutsushi/tagbar
+[submodule "Kwbd.vim"]
+	path = Kwbd.vim
+	url = https://github.com/rgarver/Kwbd.vim.git
